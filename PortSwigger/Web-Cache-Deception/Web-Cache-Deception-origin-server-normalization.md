@@ -1,8 +1,8 @@
 # Description 
-Lab: Web cache deception - path delimiters 
-Platform: PortSwigger Web Academy
-Difficulty: Practitioner 
-Date Completed:  03 June 2026
+Lab: Web cache deception - path delimiters </br>
+Platform: PortSwigger Web Academy</br>
+Difficulty: Practitioner </br>
+Date Completed:  03 June 2026</br>
 
 # What was vulnerable:
 Discrepancy in how the cache and origin server normalized the URL
@@ -25,4 +25,5 @@ An attacker can gain access to a victim’s account and/or sensitive information
 Ensure cache and origin servers normalize URLs consistently before constructing cache keys. and the rules of normalization are applied to both the origin server and the cache server where both the servers resolve slash characters and replace the dot segments.
 
 # Screenshot:
+<img width="1527" height="722" alt="image" src="https://github.com/user-attachments/assets/30ec412e-38f5-472d-9cea-49887b3055f6" />
 
