@@ -24,7 +24,7 @@ A collection of writeups from the problems/labs i have solved in my journey to b
 | Path traversal null byte bypass | PortSwigger | Practitioner | Path Traversal |
 
 ## Certifications
-- Google Cybersecurity Certificate (in progress)
+- Google Cybersecurity Certificate
 - CompTIA Security+ (preparing)
 
 ## Connect
