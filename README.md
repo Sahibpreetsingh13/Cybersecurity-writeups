@@ -13,6 +13,7 @@ A collection of writeups from the problems/labs i have solved in my journey to b
 - SSRF (Server Side Request Forgery)
 - CSRF
 - PicoCTF Challenges
+- SQL-Injections
 
 ## Featured Writeups
 
