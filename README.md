@@ -14,6 +14,9 @@ A collection of writeups from the problems/labs i have solved in my journey to b
 - CSRF
 - PicoCTF Challenges
 - SQL-Injections
+- Web LLM attacks
+- File upload vulnerabilities
+- Cross site scripting(XSS)
 
 ## Featured Writeups
 
