@@ -29,7 +29,7 @@ A collection of writeups from the problems/labs i have solved in my journey to b
 
 ## Certifications
 - Google Cybersecurity Certificate
-- CompTIA Security+ (preparing)
+- CompTIA Security+ 
 
 ## Connect
 - Linkedin: www.linkedin.com/in/sahibpreet-singh-398b22332
